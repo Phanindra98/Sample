@@ -16,7 +16,7 @@ export default function HomeScreen() {
         />
       }>
       <ThemedView style={styles.titleContainer}>
-        <ThemedText type="title">Signin screen</ThemedText>
+        <ThemedText type="title">Signin screen in home</ThemedText>
         
         <HelloWave />
       </ThemedView>
